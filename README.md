@@ -1,6 +1,6 @@
 # Olá! Eu sou Julia👋
 
-Estudante de [Bacharelado Interdisciplinar de Ciência e Tecnologia] e um entusiasta de tecnologia mergulhando no mundo da programação. 
+Estudante de [Bacharelado Interdisciplinar de Ciência e Tecnologia]. 
 Atualmente, estou construindo uma base sólida em lógica de programação e resolução de problemas.
 
 ### 🌱 O que estou aprendendo no momento:
