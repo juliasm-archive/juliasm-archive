@@ -1,4 +1,4 @@
-# Olá! Eu sou Julia👋
+# Olá! Eu sou Julia
 
 Estudante de **Bacharelado Interdisciplinar de Ciência e Tecnologia**. 
 Atualmente, estou estudando Algoritmos e Estruturas de Dados
